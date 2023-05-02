@@ -1,1 +1,2 @@
 Este es el contenido del fichero 1
+Este es el cambio añadido para la actividad complementaria
